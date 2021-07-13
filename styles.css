@@ -1,0 +1,57 @@
+* {
+  font-family: "Times New Roman";
+  background-color: beige;
+}
+
+main {
+  margin-left: 200px;
+  margin-right: 80px;
+}
+
+article {
+  margin-left: 200px;
+  margin-right: 80px;
+}
+
+section {
+  margin-left: 200px;
+  margin-right: 80px;
+}
+
+a:link {
+  color: black;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+   color: blue;
+}
+a:active {
+  color: blue;
+}
+
+.header{
+  padding: 30px;
+  text-align: center;
+  background: beige;
+  color: black;
+  font-size: 30px;
+  height: 200px;
+}
+
+img {
+  width: 450px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+h2{
+  text-align: center;
+}
+
+footer h4{
+  text-align: center;
+}
