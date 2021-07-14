@@ -1,23 +1,28 @@
+/* This is for whole html file */
 * {
   font-family: "Times New Roman";
   background-color: beige;
 }
 
+/* The main section that needed to be adjusted a bit more*/
 main {
   margin-left: 200px;
   margin-right: 80px;
 }
 
+/* The article section that needed to be adjusted a bit more*/
 article {
   margin-left: 200px;
   margin-right: 80px;
 }
 
+/* The section that needed to be adjusted a bit more*/
 section {
   margin-left: 200px;
   margin-right: 80px;
 }
 
+/* These are the different effects for the contact me link*/
 a:link {
   color: black;
 }
@@ -31,6 +36,8 @@ a:active {
   color: blue;
 }
 
+/* This is where I made the header a big smaller and give it a different color to make it look clean*/
+
 .header{
   padding: 30px;
   text-align: center;
@@ -40,6 +47,7 @@ a:active {
   height: 200px;
 }
 
+/* my image was too big so had to make it smaller and center it to the header*/
 img {
   width: 450px;
   display: block;
@@ -48,10 +56,13 @@ img {
   margin-top: 50px;
 }
 
+/* I centered all the h2 texts */
+
 h2{
   text-align: center;
 }
 
+/* The footer is centered */
 footer h4{
   text-align: center;
 }
